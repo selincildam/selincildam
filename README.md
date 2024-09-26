@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selin</h1>
-- 🌱 I’m currently learning **Data Science and Machine Learning.**
+- 🌱  **Data Science and Machine Learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
