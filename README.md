@@ -16,7 +16,6 @@
 
 - 🎓 Bilgisayar Mühendisliği
 - 📊 ML, DL, GenAI odaklı tahminleme modelleri üzerine projeler geliştiriyorum.
-- 📫 İletişim:[LinkedIn](https://linkedin.com/in/selincildam)
 
 ---
 
